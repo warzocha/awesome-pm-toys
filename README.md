@@ -6,6 +6,7 @@
 - [Toys & Tools](#toys--tools)
   - [Data handling](#data-handling)
 - [Other lists](#other-lists)
+- [Miscellanea](#miscellanea)
 - [Resources](#resources)
 
 
@@ -18,6 +19,10 @@ Every software goes here.
 
 ## Other lists
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management) - hundreds of texts about becoming a manager of development team
+
+## Miscellanea
+- [Mouseless](https://mouseless.app) - cheatsheets for many popular MacOS apps combined with interactive drills to train the muscle-memory
+- [Glyphfinder](https://www.glyphfinder.com) - place where you can find any Unicode character by searching words, categories, look-alikes and colors
 
 ## Resources
 Every text goes here.
