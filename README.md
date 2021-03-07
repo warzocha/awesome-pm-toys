@@ -12,7 +12,7 @@
 Every software goes here.
 
 ### Data handling
-- [VisiData](https://github.com/saulpw/visidata) - CLI for exploring and arranging large amounts of tabular data (you can even make a table from scratch with it)
+- [VisiData](https://github.com/saulpw/visidata) - TUI for exploring and arranging large amounts of tabular data (you can even make a table from scratch with it)
 - [jq](https://github.com/stedolan/jq) - CLI for JSON processing with a lot of filtering options
 - [yq](https://github.com/stedolan/jq) - CLI for YAML processing (based on [jq](https://github.com/stedolan/jq), JSON partially supported)
 
