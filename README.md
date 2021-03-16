@@ -21,6 +21,11 @@ Every software goes here.
 - [jq](https://github.com/stedolan/jq) - CLI for JSON processing with a lot of filtering options
 - [yq](https://github.com/stedolan/jq) - CLI for YAML processing (based on [jq](https://github.com/stedolan/jq), JSON partially supported)
 
+---
+- [vim-plug](https://github.com/junegunn/vim-plug) - 
+---
+- [goyo](https://github.com/junegunn/goyo.vim) - 
+
 ## Other lists
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management) - hundreds of texts about becoming a manager of development team
 - [Awesome IT Quotes](https://github.com/victorlaerte/awesome-it-quotes) - Alexandrian Library for IT quotes
