@@ -23,6 +23,7 @@ Every software goes here.
 
 ## Other lists
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management) - hundreds of texts about becoming a manager of development team
+- [Awesome IT Quotes](https://github.com/victorlaerte/awesome-it-quotes) - Alexandrian Library for IT quotes
 
 ## Resources
 Every text goes here.
