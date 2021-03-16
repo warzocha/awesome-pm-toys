@@ -4,6 +4,7 @@
 
 ## Contents
 - [Toys & Tools](#toys--tools)
+  - [Making your SHELLter nice and cosy](#making-your-shellter-nice-and-cosy)
   - [Data handling](#data-handling)
 - [Other lists](#other-lists)
 - [Resources](#resources)
@@ -12,6 +13,9 @@
 
 ## Toys & Tools
 Every software goes here.
+### Making your SHELLter nice and cosy
+- [tldr](https://github.com/tldr-pages/tldr) - `man` made better with emphasis on every day tasks (tl;dr: help pages)
+
 ### Data handling
 - [VisiData](https://github.com/saulpw/visidata) - TUI for exploring and arranging large amounts of tabular data (you can even make a table from scratch with it)
 - [jq](https://github.com/stedolan/jq) - CLI for JSON processing with a lot of filtering options
