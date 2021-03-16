@@ -3,7 +3,7 @@
 
 
 ## Contents
-- [Awesome PM Toys ![Awesome](https://awesome.re)](#awesome-pm-toys-)
+- [Awesome PM Toys](#awesome-pm-toys)
   - [Contents](#contents)
   - [Toys & Tools](#toys--tools)
     - [Making your `SHELL`ter nice and cosy](#making-your-shellter-nice-and-cosy)
