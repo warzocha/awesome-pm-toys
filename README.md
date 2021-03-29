@@ -27,7 +27,7 @@ Making your `SHELL`ter nice and cosy
 - [exa](https://github.com/ogham/exa) - like `ls` but with colors and better structure
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - probably the fastest `grep` replacement
 
-## Data
+### Data
 Wave a `DATA` wand
 - [VisiData](https://github.com/saulpw/visidata) - TUI for exploring and arranging large amounts of tabular data (you can even make a table from scratch with it)
 - [jq](https://github.com/stedolan/jq) - CLI for JSON processing with a lot of filtering options
