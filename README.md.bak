@@ -20,35 +20,42 @@
 Every software goes here.
 
 ### Shell
-Making your **shel<sup>2</sup>ter** nice and cosy
+Making your `SHELL`ter nice and cosy
 - [tldr](https://github.com/tldr-pages/tldr) - (tl;dr: help pages) `man` made better with emphasis on every day tasks
 - [nnn](https://github.com/jarun/nnn) - terminal file manager with shortcuts for every action and 4 tabs in one session (plugins included)
 - [bat](https://github.com/sharkdp/bat) - like `cat` but with colors, paging and git integration (extra points for showing non-printable chars by symbols: BS, LF etc.)
 - [exa](https://github.com/ogham/exa) - like `ls` but with colors and better structure
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - probably the fastest `grep` replacement
+- [tig](https://github.com/jonas/tig) - TODO
 
-### Data
-Wave a **data** wand
+## Data
+Wave a `DATA` wand
 - [VisiData](https://github.com/saulpw/visidata) - TUI for exploring and arranging large amounts of tabular data (you can even make a table from scratch with it)
 - [jq](https://github.com/stedolan/jq) - CLI for JSON processing with a lot of filtering options
 - [yq](https://github.com/stedolan/jq) - CLI for YAML processing (based on [jq](https://github.com/stedolan/jq), JSON partially supported)
 
 ### Vim
-**Vim** vim promovet insitam<sup>*</sup>
+`VIM` vim promovet insitam<sup>*</sup>
+- [neovim](https://github.com/neovim/neovim) - TODO
 
 #### Plugins
+- [vim-plug](https://github.com/junegunn/vim-plug) - TODO
+- [vim-fugitive](https://github.com/tpope/vim-fugitive) - TODO
 
-<sup>*</sup> _Vim promotes one's innate power_ (derived from Horace, Ode 4.4)
+<sup>*</sup> _VIM promotes one's innate power_ (derived from Horace, Ode 4.4)
 
+## Web
+- [vimium](https://github.com/philc/vimium) - TODO
 
 ## Other lists
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management) - hundreds of texts about becoming a manager of development team
 - [Awesome IT Quotes](https://github.com/victorlaerte/awesome-it-quotes) - Alexandrian Library for IT quotes
-
+- [awesome-shell](https://github.com/alebcay/awesome-shell) - TODO
+- [terminals are sexy](https://github.com/k4m4/terminals-are-sexy) - TODO
+-
 
 ## Resources
 Every text goes here.
-
 
 ## Miscellanea
 - [Mouseless](https://mouseless.app) - cheatsheets for many popular MacOS apps combined with interactive drills to train the muscle-memory
