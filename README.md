@@ -24,6 +24,7 @@ Every software goes here.
 - [tldr](https://github.com/tldr-pages/tldr) - `man` made better with emphasis on every day tasks (tl;dr: help pages)
 
 ### Wave a `DATA` wand
+- [tig](https://github.com/jonas/tig) - TODO
 - [VisiData](https://github.com/saulpw/visidata) - TUI for exploring and arranging large amounts of tabular data (you can even make a table from scratch with it)
 - [jq](https://github.com/stedolan/jq) - CLI for JSON processing with a lot of filtering options
 - [yq](https://github.com/stedolan/jq) - CLI for YAML processing (based on [jq](https://github.com/stedolan/jq), JSON partially supported)
@@ -32,12 +33,22 @@ Every software goes here.
 #### distributions
 #### configs
 #### plugins
+- [neovim](https://github.com/neovim/neovim) - TODO
+
+- [vim-plug](https://github.com/junegunn/vim-plug) - TODO
+- [vim-fugitive](https://github.com/tpope/vim-fugitive) - TODO
 
 <sup>*</sup> _VIM promotes one's innate power_ (derived from Horace, Ode 4.4)
+
+## Web
+- [vimium](https://github.com/philc/vimium) - TODO
 
 ## Other lists
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management) - hundreds of texts about becoming a manager of development team
 - [Awesome IT Quotes](https://github.com/victorlaerte/awesome-it-quotes) - Alexandrian Library for IT quotes
+- [awesome-shell](https://github.com/alebcay/awesome-shell) - TODO
+- [terminals are sexy](https://github.com/k4m4/terminals-are-sexy) - TODO
+-
 
 ## Resources
 Every text goes here.
